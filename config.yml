@@ -1,0 +1,10 @@
+camera_url: "rtsp://admin:admin@192.168.1.130:557/DeskCamera/DISPLAY2_For_SubStreamJpeg_Token"
+server_url: "http://192.168.1.130:4590"
+username: "admin;KxsD11z743Hf5Gq9mv3+5ekxzemlCiUXkTFY5ba1NOGcLCmGstt2n0zYE9NsNimv"
+password: "@rnauD2017"
+camera_id: "00000001-0000-babe-0008-f9217d236ec5"
+timeout: 5 # seconds
+hearbeat: 60 # seconds
+submit_short: 1 # seconds
+submit_long: 180 # seconds
+threshold: 79 # in range [0..100]
